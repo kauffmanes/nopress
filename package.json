@@ -1,0 +1,26 @@
+{
+  "name": "nopress",
+  "version": "0.0.1",
+  "description": "A project that uses the Wordpress API for content only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordpress",
+    "api",
+    "wordpress",
+    "node",
+    "angular",
+    "angular-cli"
+  ],
+  "author": "Emily Kauffman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "morgan": "^1.8.2"
+  }
+}
