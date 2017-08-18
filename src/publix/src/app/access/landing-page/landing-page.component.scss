@@ -1,0 +1,16 @@
+@import '../../../assets/styles/variables.scss';
+
+.jumbotron {
+	background: $main-yellow;
+	color: white;
+}
+
+nav {
+	margin-bottom: 0;
+	background: $main-yellow;
+}
+
+.navbar-brand img {
+	width: 60px;
+	display: inline-block;
+}
