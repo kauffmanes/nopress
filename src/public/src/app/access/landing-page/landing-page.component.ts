@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 
 export class LandingPageComponent {
-	title = 'Easepress';
+	title = 'Nopress';
 }

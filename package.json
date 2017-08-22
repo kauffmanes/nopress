@@ -74,6 +74,7 @@
 		"request": "^2.78.0"
 	},
 	"devDependencies": {
+		"@types/jsonwebtoken": "^7.2.3",
 		"@types/async": "^2.0.40",
 		"@types/bcrypt-nodejs": "0.0.30",
 		"@types/body-parser": "^1.16.2",
@@ -97,6 +98,7 @@
 		"@types/supertest": "^2.0.0",
 		"concurrently": "^3.4.0",
 		"jest": "^19.0.2",
+		"jsonwebtoken": "^7.4.3",
 		"node-sass": "^4.5.2",
 		"nodemon": "^1.11.0",
 		"shelljs": "^0.7.7",
